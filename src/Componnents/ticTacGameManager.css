@@ -1,0 +1,19 @@
+main {
+    margin: 100px;
+}
+
+.player {
+    cursor: pointer;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px #888888;
+    width: 100px;
+    transition: 2s, 4s;
+    text-align: center;
+}
+
+.player:hover {
+    background-color: blanchedalmond;
+}
